@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?><preferences stamp="5">
+	<com.4d>
+		<deployment>
+			<options/>
+		</deployment>
+		<web>
+			<standalone_server>
+				<configuration https_port_number="443" port_number="8858" publish_at_startup="false">
+					<hosts>
+						<host home_page="index.html" id="0" name="default"/>
+					</hosts>
+				</configuration>
+			</standalone_server>
+		</web>
+		<general execute_host_database_event="true"/>
+	</com.4d>
+</preferences>
